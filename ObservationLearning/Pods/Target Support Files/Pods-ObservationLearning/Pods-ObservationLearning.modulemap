@@ -1,0 +1,6 @@
+framework module Pods_ObservationLearning {
+  umbrella header "Pods-ObservationLearning-umbrella.h"
+
+  export *
+  module * { export * }
+}
